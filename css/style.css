@@ -1,0 +1,492 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: arial;
+	font-size: 20px;
+}
+.full_content_wrapper{
+	width: 100%;
+}
+.content_wrapper{
+	width: 1170px; /*change the width to your need*/
+	margin: 0px auto;
+	display: block;
+}
+.fix{
+	overflow: hidden;
+}
+/*basic css for a design*/
+/*header section css start*/
+.header_bg{
+	background: #FFFFFF;
+}
+.left_header{
+  background: url(../images/header_img.png);
+  padding-left: 25px;
+  background-repeat: no-repeat;
+  float: left;
+    background-size: 20px 15px;
+
+}
+.left_header img{
+	 margin-left: 39px;
+	 height: 18px;
+
+}
+.right_header{
+}
+.right_header img{
+   margin-left: 1095px;
+  margin-top: -20px;
+  height: 23px;
+  width: 26px;
+}
+.right_header h2{
+  margin-left: 868px;
+  margin-top: 21px;
+  background: #FFD200;
+  font-size: 16px;
+  font-family: Myriad Pro;
+  color: #212121;
+  display: block;
+  height: 21px;
+  width: 155px;
+  text-align: center;
+  border-radius: 10px;
+  text-decoration: underline;
+}
+/*header section end*/
+.main_banner_bg{
+	background:url(../images/main_banner.png);
+	background-repeat: no-repeat;
+	background-size: 100% 500px;
+}
+.main_banner{
+
+}
+.main_banner h2{
+  margin-top: 50px;
+  margin-left: 179px;
+  margin-bottom: 30px;
+    font-size: 60px;
+  font-family: Myriad Pro;
+  color: #000000;
+  text-transform:uppercase;
+}
+.main_banner p{
+  margin-left: 429px;
+  margin-bottom: 30px;
+      font-size: 22px;
+  font-family: Myriad Pro;
+  color: #000000;
+	
+}
+.button_1{
+  margin: 0px auto;
+  display: block;
+  margin-top: 66px;
+  margin-bottom: 200px;
+  height: 41px;
+  width: 222px;
+  color: #212121;
+  border-radius: 13px;
+  background: none;
+  text-transform: uppercase;
+}
+/*panel section css start*/
+.panel_seciton{
+	width: 1170px;
+	margin-top: 60px;
+	margin-top: 60px;
+}
+.panel_seciton img{
+  width: 50px;
+  height: 50px;
+  border: 3px solid rgb(216, 159, 159);
+  padding: 52px;
+  border-radius: 86px;
+}
+.panel_seciton p{
+  font-size: 24px;
+  font-family: Myriad Pro;
+  color: #000000;
+  margin-left: 38px;
+   margin-bottom: 60px;
+}
+.fisrt_site{
+	float: left;
+	width: 240px;
+	margin-left: 50px;
+}
+.second_site{
+	float: left;
+	width: 240px;
+	margin-left: 50px;
+}
+
+.thard_site{
+	float: left;
+	width: 240px;
+	margin-left: 50px;
+}
+.fourth_site{
+	float: left;
+	width: 240px;
+		margin-left: 50px;
+}
+/*pannel section css end*/
+/*advantage section start*/
+.advantage_part{
+	width: 1170px;
+	overflow: hidden;
+	margin-top: 60px;
+}
+.advantage_bg{
+	background: #F3F0E7;
+}
+.advantage_part h1{
+	  font-size: 60px;
+  font-family: Myriad Pro;
+  color: #000000;
+  text-transform:uppercase;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.advantage_part img{
+  width: 200px;
+  height: 200px;
+  background-color: rgb(219, 197, 197);
+  border-radius: 106px;
+  border: 1px solid rgb(138, 138, 203);
+
+}
+.advantage_part h2{
+	 font-size: 24px;
+  font-family: Myriad Pro;
+  color: #000000;
+
+}
+.advantage_part p{
+   font-size: 16px;
+  font-family: Myriad Pro;
+  color: #000000;
+}
+.fisrt_part{
+	float: left;
+	width: 300px;
+	margin-left: 50px;
+
+}
+
+.middle_part{
+		float: left;
+	width: 300px;
+	margin-left: 50px;
+	
+}
+.last_part{
+		float: right;
+	width: 300px;
+	margin-left: 50px;
+	
+}
+.button2{
+    margin-left: 500px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+    width: 300px;
+    height: 60px;
+    background: #E11A27;
+    color: #fff;
+    font-size: 26px;
+    font-family: Myriad Pro;
+    border-radius: 14px;
+    outline: none;
+    border: none;
+
+}
+/*advantage section end*/
+/*ready solutions css section start*/
+.reday_solutions{
+  width: 1170px;
+  overflow: hidden;
+  margin-bottom: 100px;
+}
+.reday_solutions h1{  
+  text-align:center;
+   color: #000000;
+  font-size: 60px;
+  font-family: Myriad Pro;
+  margin-bottom:60px;
+  margin-top: 37px;
+}
+.reday_solutions img{
+  float: left;
+  margin-right: 64px;
+
+}
+.classic_mb{
+  margin-top: 20px;
+}
+/*ready solution css section end*/
+/*Testimonnials section css start*/
+.testimonial_bg{
+  background: #F7F0E6;
+}
+.Testimonilas_part{
+    width: 1170px;
+    overflow: hidden;
+    background: url(../images/banner_2.png);
+    background-repeat: no-repeat;
+    background-size: 1200px;
+}
+.about_part{
+  width: 570px;
+  float: left;
+  margin-right:50px;
+}
+.about_part h1{
+  margin-bottom: 50px;
+  margin-top: 30px;
+  color: #000000;
+  font-size: 60px;
+  font-family: Myriad Pro;
+}
+.span_t{
+  font-weight: bolder;
+}
+.main_about{
+
+}
+.main_about h2{
+  color: #000000;
+   font-size: 30px;
+  font-family: Myriad Pro;
+    margin-left: 177px;
+    margin-top: -107px;;
+}
+.main_about h3{
+  margin-left: 177px;
+    color: #000000;
+   font-size: 18px;
+  font-family: Myriad Pro;
+}
+.main_about p{
+  margin-top: 56px;
+   color: #000000;
+   font-size: 18px;
+  font-family: Myriad Pro;
+}
+.main_about a{
+     float: right;
+      margin-right: 50px;
+      text-decoration: none;
+      color: #000000;
+       font-size: 18px;
+      font-family: Myriad Pro;
+      background:url(../images/next_arrow.png);
+      background-repeat: no-repeat;
+      padding-left: 25px;
+
+
+}
+.button_3{
+    margin-left: 109px;
+    margin-top: 69px;
+    margin-bottom: 150px;
+    width: 300px;
+    height: 60px;
+    color: #212121;
+    font-size: 26px;
+    font-family: Myriad Pro;
+    border-radius: 14px;
+    background: #F7F0E6;
+    border-top: 1px solid #000;
+}
+.background_part{
+  width: 530px;
+}
+/*Testimonials section css end*/
+/*terms payment shipping section css start*/
+.ter_pay_shipp{
+  overflow: hidden;
+  width: 1170px;
+  margin-top: 90px;
+
+}
+.ter_pay_shipp h1{
+    text-align: center;
+    color: #212121;
+    font-size: 36px;
+    font-family: Myriad Pro;
+    background: #FFD200;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+.terms_part{
+  width: 330px;
+  margin-right: 60px;
+  float: left;
+
+}
+.terms_part p{
+    color: #000000;
+    font-size: 18px;
+    font-family: Myriad Pro;
+    background: #F7F0E6;
+    padding: 35px;
+
+}
+.payment_part {
+  width: 330px;
+  margin-right: 60px;
+  float: left;
+
+}
+.under_payment_part{
+     color: #000000;
+    font-size: 18px;
+    font-family: Myriad Pro;
+    background: #F7F0E6;
+    padding: 35px;
+}
+.under_payment_part h2{
+
+}
+.under_payment_part ul{
+
+}
+.under_payment_part li{
+      line-height: 1.7;
+
+}
+.shipping_part{
+  width: 330px;
+  margin-right: 60px;
+  float: right;
+}
+.shipping_part p{
+   color: #000000;
+    font-size: 18px;
+    font-family: Myriad Pro;
+    background: #F7F0E6;
+    padding: 35px;
+}
+.shipping_part a{
+     color: #e11a27;
+    font-size: 18px;
+    font-family: Myriad Pro;
+    background: #F7F0E6;
+    display: -webkit-box;
+    margin-left: 1px;
+    text-decoration: none;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-bottom: 13px;
+
+}
+.button_4{   
+   margin-left: 352px;
+    margin-top: 70px;
+    margin-bottom: 120px;
+    width: 414px;
+    height: 64px;
+    background: #E11A27;
+    color: #fff;
+    font-size: 26px;
+    font-family: Myriad Pro;
+    border-radius: 14px;
+    outline: none;
+    border: none;
+}
+/*terms payment shipping section css end*/
+/*footer section css start*/
+.footer_bg{
+  background: #FFD200;
+
+}
+footer{
+  width: 1170px;
+  overflow: hidden;
+  margin-top: 40px;
+}
+.first_footer{
+  overflow: hidden;
+  width: 1170px;
+}
+.first_footer ul {
+  margin-top: 30px;
+
+}
+.first_footer ul li {
+  list-style: none;  
+  margin-top: 12px;
+  margin-left: 20px;
+  color: #000000;
+  font-size: 18px;
+  font-family: Myriad Pro;
+}
+.abuot_us_footer{
+  width: 170px;
+  margin-right: 70px;
+  float: left;
+   border-top: 2px solid #000000;
+}
+.terams_footer{
+  width: 170px;
+  margin-right: 70px;
+  float: left;
+  border-top: 2px solid #000000;
+}
+.light_book_footer{
+    width: 170px;
+  margin-right: 20px;
+  float: left;
+  border-top: 2px solid #000000;
+}
+.share_button_footer{
+  width: 170px;
+  margin-right: 70px;
+  float: right;
+  border-top: 2px solid #000000;
+}
+.share_button_footer{
+
+}
+.share_button_footer ul{
+  
+}
+.share_button_footer ul li {
+  float: left;
+  
+}
+.share_button_footer ul li a{
+  
+}
+.share_button_footer ul li a img{
+  
+}
+
+.under_share img{
+    border-radius: 16px;
+    width: 95px;
+    margin-top: 50px;
+  
+}
+.last_footer{
+  
+}
+.last_footer p{
+  text-align: center;
+   color: #000000;
+  font-size: 14px;
+  font-family: Myriad Pro;
+  margin-bottom: 50px;
+  
+}
+/*footer seciton css end*/
+
